@@ -1,5 +1,7 @@
 # Image Edge Distance
-This is a simple program to draw gradients on images based on the distance from any "fixed colour" pixel. This is better explained through the following example images.
+This is a simple program to draw gradients on images based on the manhattan distance from any "fixed colour" pixel. This is better explained through the example images below.
+
+Example images are copyrighted and may not be used or redistributed for any purpose other than demonstrating the functionality of this program.
 
 ## Example
 This is used as the input image. It has a black background with white shapes.
